@@ -1,0 +1,16 @@
+{
+  "name": "pipr.dev",
+  "version": "1.0.0",
+  "description": "Github pages site for P5js experiments",
+  "main": "index.html",
+  "repository": "git@github.com:jj6725/jj6725.github.io.git",
+  "author": "jj6725 <mengdaq@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-p5js": "^1.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-p5js": "^0.3.2",
+    "prettier": "^2.2.1"
+  }
+}
